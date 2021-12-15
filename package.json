@@ -1,6 +1,6 @@
 {
   "name": "gsmtasks-api",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Typescript type declarations for gsmtasks.com API",
   "scripts": {
     "update": "openapi-typescript -o index.ts https://api.gsmtasks.com/docs/schema/"
