@@ -1,10 +1,11 @@
 {
-  "name": "gsmtasks-api",
+  "name": "gsmtasks-api-ts",
   "version": "2.1.0",
   "description": "Typescript type declarations for gsmtasks.com API",
   "scripts": {
     "update": "openapi-typescript -o index.ts https://api.gsmtasks.com/docs/schema/"
   },
+  "homepage": "https://github.com/oeklo/gsmtasks-api-ts",
   "author": "Raphael Krupinski",
   "license": "MIT",
   "devDependencies": {
